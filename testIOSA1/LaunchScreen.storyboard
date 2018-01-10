@@ -27,6 +27,9 @@
                             </label>
                         </subviews>
                     </view>
+                    <connections>
+                        <outlet property="Label01" destination="232" id="name-outlet-232"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
