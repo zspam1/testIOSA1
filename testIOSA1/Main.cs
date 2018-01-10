@@ -9,6 +9,7 @@ namespace testIOSA1
         {
             // if you want to use a different Application Delegate class from "AppDelegate"
             // you can specify it here.
+            //test
             UIApplication.Main(args, null, "AppDelegate");
         }
     }
